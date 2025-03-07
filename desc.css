@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    font-family: Caveat;
+}
+
+.bg-container {
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+}
+
+.image {
+    width: 150px;
+}
+
+.heading {
+    font-family: Roboto;
+    font-size: 45px;
+    color: #959ead;
+    font-weight: 300;
+}
+
+.caption {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #959ead;
+    font-weight: 300;
+}
+
+.about-section {
+    background-color: black;
+}
+
+.about-section-heading {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    color: #959ead;
+    text-align: center;
+}
+
+.about-card {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 16px;
+}
+
+.about-card-description {
+    font-family: Roboto;
+    font-size: 16px;
+    color: white;
+}
+
+.skills-section {
+    background-color: black;
+}
+
+.skills-section-heading {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    color: #959ead;
+    text-align: center;
+}
+
+.skills-card {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.skills-icon {
+    font-size: 58px;
+    color: black;
+}
+
+.skills-card-title {
+    color: white;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.blog-section {
+    background-image: url('https://i.pinimg.com/736x/a0/57/af/a057afe4ded4705c350f58f5be2521af.jpg');
+    background-size: cover;
+    height: 85vh;
+}
+
+.blog-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+
+.blog-section-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.contacts-section {
+    background-color: black;
+}
+
+.contacts-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 36px;
+    color: #959ead;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: black;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.contacts-section-container {
+    border-radius: 40px;
+    padding: 22px;
+    margin: 15px;
+}
+
+.footer-section-phone-number {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
